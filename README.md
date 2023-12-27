@@ -1,4 +1,4 @@
-MVP video: https://youtu.be/5tdwZ1IL9S0](https://www.youtube.com/watch?v=5tdwZ1IL9S0&ab_channel=Ewan
+MVP video: https://youtu.be/5tdwZ1IL9S0](https://www.youtube.com/watch?v=5tdwZ1IL9S0&ab_channel=Ewan)
 
 # InsurancePlace
 InsurancePlace is a decentralized application that lets you take out a insurance policy without revealing any personal information about the customer. Developed during the KS DeVinci - Institut des Crypto-Actifs hackathon.
